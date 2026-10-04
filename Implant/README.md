@@ -1,4 +1,4 @@
-# Implant-Inspired Wireless Sensor PCB
+# Implant Wireless Sensor PCB
 
 This was a school PCB project for a small wireless sensor designed to measure impedance and temperature.
 
