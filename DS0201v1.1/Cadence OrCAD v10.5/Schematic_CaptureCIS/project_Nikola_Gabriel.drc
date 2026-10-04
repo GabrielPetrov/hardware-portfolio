@@ -1,0 +1,132 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: DS0201v1.1
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR:  [DRC0004]  Possible pin type conflict U3,Vo Output Connected to Power
+                    DS0201v1.1, DS0201v1.1  (4.20, 3.30) 
+ERROR:  [DRC0004]  Possible pin type conflict U8,LED+ Power Connected to Output
+                    DS0201v1.1, DS0201v1.1  (2.80, 3.80) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PA2 Bidirectional Connected to Power
+                    DS0201v1.1, DS0201v1.1  (11.90, 7.60) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PB10 Bidirectional Connected to Power
+                    DS0201v1.1, DS0201v1.1  (13.70, 7.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PB11 Bidirectional Connected to Power
+                    DS0201v1.1, DS0201v1.1  (13.70, 6.90) 
+ERROR:  [DRC0004]  Possible pin type conflict U2,Vo Output Connected to Power
+                    DS0201v1.1, DS0201v1.1  (4.80, 2.30) 
+ERROR:  [DRC0004]  Possible pin type conflict U8,VCI Power Connected to Output
+                    DS0201v1.1, DS0201v1.1  (0.80, 3.80) 
+ERROR:  [DRC0004]  Possible pin type conflict U6,C\H\R\G\ Output Connected to Power
+                    DS0201v1.1, DS0201v1.1  (4.10, 1.10) 
+WARNING:  [DRC0004]  Possible pin type conflict U4,X0 Bidirectional Connected to Output
+                    DS0201v1.1, DS0201v1.1  (10.40, 1.40) 
+WARNING:  [DRC0004]  Possible pin type conflict U4,X0 Bidirectional Connected to Power
+                    DS0201v1.1, DS0201v1.1  (10.40, 1.40) 
+WARNING:  [DRC0004]  Possible pin type conflict U4,X1 Bidirectional Connected to Output
+                    DS0201v1.1, DS0201v1.1  (10.40, 1.50) 
+WARNING:  [DRC0004]  Possible pin type conflict U4,X1 Bidirectional Connected to Power
+                    DS0201v1.1, DS0201v1.1  (10.40, 1.50) 
+WARNING:  [DRC0004]  Possible pin type conflict U4,X2 Bidirectional Connected to Output
+                    DS0201v1.1, DS0201v1.1  (10.40, 1.60) 
+WARNING:  [DRC0004]  Possible pin type conflict U4,X2 Bidirectional Connected to Power
+                    DS0201v1.1, DS0201v1.1  (10.40, 1.60) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,VSS Power Connected to Bidirectional
+                    DS0201v1.1, DS0201v1.1  (12.50, 4.00) 
+ERROR:  [DRC0004]  Possible pin type conflict U9,VSS Power Connected to Output
+                    DS0201v1.1, DS0201v1.1  (12.50, 4.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,VSSA Power Connected to Bidirectional
+                    DS0201v1.1, DS0201v1.1  (12.10, 4.00) 
+ERROR:  [DRC0004]  Possible pin type conflict U9,VSSA Power Connected to Output
+                    DS0201v1.1, DS0201v1.1  (12.10, 4.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,VREF- Power Connected to Bidirectional
+                    DS0201v1.1, DS0201v1.1  (12.00, 4.00) 
+ERROR:  [DRC0004]  Possible pin type conflict U9,VREF- Power Connected to Output
+                    DS0201v1.1, DS0201v1.1  (12.00, 4.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PC8 Bidirectional Connected to Output
+                    DS0201v1.1, DS0201v1.1  (12.70, 4.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PC8 Bidirectional Connected to Power
+                    DS0201v1.1, DS0201v1.1  (12.70, 4.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PC6 Bidirectional Connected to Output
+                    DS0201v1.1, DS0201v1.1  (12.80, 4.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PC6 Bidirectional Connected to Power
+                    DS0201v1.1, DS0201v1.1  (12.80, 4.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PB2 Bidirectional Connected to Output
+                    DS0201v1.1, DS0201v1.1  (12.90, 4.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PB2 Bidirectional Connected to Power
+                    DS0201v1.1, DS0201v1.1  (12.90, 4.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PC4 Bidirectional Connected to Output Port
+                    DS0201v1.1, DS0201v1.1  (13.70, 6.50) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PC5 Bidirectional Connected to Output Port
+                    DS0201v1.1, DS0201v1.1  (13.70, 6.40) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PB1 Bidirectional Connected to Output Port
+                    DS0201v1.1, DS0201v1.1  (12.60, 7.60) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PB0 Bidirectional Connected to Output Port
+                    DS0201v1.1, DS0201v1.1  (12.50, 7.60) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PD12 Bidirectional Connected to Output Port
+                    DS0201v1.1, DS0201v1.1  (13.70, 5.00) 
+WARNING:  [DRC0004]  Possible pin type conflict U9,PA0 Bidirectional Connected to Power
+                    DS0201v1.1, DS0201v1.1  (11.80, 7.60) 
+WARNING:  [DRC0004]  Possible pin type conflict Vbat Power Connected to Bidirectional
+                    DS0201v1.1, DS0201v1.1  (11.90, 7.60) 
+ERROR:  [DRC0004]  Possible pin type conflict Vbat Power Connected to Bidirectional Port
+                    DS0201v1.1, DS0201v1.1  (11.90, 7.60) 
+WARNING:  [DRC0004]  Possible pin type conflict Vusb Power Connected to Bidirectional
+                    DS0201v1.1, DS0201v1.1  (13.70, 7.00) 
+ERROR:  [DRC0004]  Possible pin type conflict Vusb Power Connected to Bidirectional Port
+                    DS0201v1.1, DS0201v1.1  (13.70, 7.00) 
+WARNING:  [DRC0004]  Possible pin type conflict V0 Power Connected to Bidirectional
+                    DS0201v1.1, DS0201v1.1  (13.70, 6.90) 
+ERROR:  [DRC0004]  Possible pin type conflict V0 Power Connected to Bidirectional Port
+                    DS0201v1.1, DS0201v1.1  (13.70, 6.90) 
+WARNING:  [DRC0004]  Possible pin type conflict Ain Power Connected to Bidirectional
+                    DS0201v1.1, DS0201v1.1  (12.70, 2.50) 
+ERROR:  [DRC0004]  Possible pin type conflict Ain Power Connected to Bidirectional Port
+                    DS0201v1.1, DS0201v1.1  (12.70, 2.50) 
+WARNING:  [DRC0004]  Possible pin type conflict Ain Power Connected to Bidirectional
+                    DS0201v1.1, DS0201v1.1  (11.80, 7.60) 
+ERROR:  [DRC0004]  Possible pin type conflict Ain Power Connected to Bidirectional Port
+                    DS0201v1.1, DS0201v1.1  (11.80, 7.60) 
+
+Checking for Unconnected Nets
+WARNING:  [DRC0006]  Net has fewer than two connections Y-
+                    DS0201v1.1, DS0201v1.1  (1.80, 3.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections X+
+                    DS0201v1.1, DS0201v1.1  (2.50, 3.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections X-
+                    DS0201v1.1, DS0201v1.1  (1.70, 3.80) 
+WARNING:  [DRC0006]  Net has fewer than two connections Y+
+                    DS0201v1.1, DS0201v1.1  (2.60, 3.80) 
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+    Vusb  -  DS0201v1.1 (3.00, 1.05)
+    Vusb  -  DS0201v1.1 (3.40, 1.15)
+    Vusb  -  DS0201v1.1 (3.40, 1.15)
+    Vusb  -  DS0201v1.1 (3.30, 1.15)
+    Vusb  -  DS0201v1.1 (3.40, 1.15)
+
+Checking Visible Unconnected Power Pins
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets U8,Y+
+                    DS0201v1.1, DS0201v1.1  (2.60, 3.80) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets U8,X-
+                    DS0201v1.1, DS0201v1.1  (1.70, 3.80) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets U8,X+
+                    DS0201v1.1, DS0201v1.1  (2.50, 3.80) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets U8,Y-
+                    DS0201v1.1, DS0201v1.1  (1.80, 3.80) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets U5,V-
+                    DS0201v1.1, DS0201v1.1  (12.50, 0.30) 
+
+Checking Misleading Tap connection
+
+Check Bus width mismatch

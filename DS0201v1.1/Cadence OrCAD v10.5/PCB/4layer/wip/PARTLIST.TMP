@@ -1,0 +1,70 @@
+*************************************************************************
+*                                                                       *
+* PART LIST REPORT                                                      *
+*                                                                       *
+* C:\ORCAD_DATA\PROJECT_LAYOUT\PCB\4LAYER\PROJECT_NIKOLA_GABRIEL-1.MAX  *
+* Tue Jan 07 11:19:01 2025                                              *
+*                                                                       *
+*************************************************************************
+
+ITEM   PART NUMBER      PARTTYPE         QTY    REFERENCE DESIGNATORS          
+-------------------------------------------------------------------------------
+1                                        4      MT1,MT2,MT3,MT4                                                         
+                                                                                                                        
+2                       74HC4051         1      U4                                                                      
+                                                                                                                        
+3                       BATTERY_ELEM     1      BT1                                                                     
+                                                                                                                        
+4                       CAP_NP           37     C0,C1,C2,C3,C4,C6,C7,C12,C13,                                           
+                                                C14,C15,C16,C18,C19,C20,C21,                                            
+                                                C22,C23,C24,C25,C26,C27,C28,                                            
+                                                C29,C30,C32,C34,C35,C36,C37,                                            
+                                                C38,C39,C40,C41,C42,C45,C46                                             
+                                                                                                                        
+5                       CAP_POL          6      C5,C17,C31,C33,C43,C44                                                  
+                                                                                                                        
+6                       CESD5V0AP        1      D2                                                                      
+                                                                                                                        
+7                       CON2             2      J3,J5                                                                   
+                                                                                                                        
+8                       CON4             2      J1,J7                                                                   
+                                                                                                                        
+9                       CON6             1      J8                                                                      
+                                                                                                                        
+10                      CON8             1      J4                                                                      
+                                                                                                                        
+11                      CONN_JACK_PWR    1      J6                                                                      
+                                                                                                                        
+12                      CRYSTAL          1      X1                                                                      
+                                                                                                                        
+13                      DIODE            1      D3                                                                      
+                                                                                                                        
+14                      DIODE_2          1      D4                                                                      
+                                                                                                                        
+15                      INDUCTOR_TOROID  6      L1,L2,L3,L4,L5,L6                                                       
+                                                                                                                        
+16                      LTC4054          1      U6                                                                      
+                                                                                                                        
+17                      Q90012           1      U8                                                                      
+                                                                                                                        
+18                      RES              4      R30,R31,R32,R33                                                         
+                                                                                                                        
+19                      RESISTOR         28     R1,R2,R3,R4,R6,R7,R13,R14,R15,                                          
+                                                R16,R17,R18,R19,R21,R22,R23,                                            
+                                                R24,R25,R26,R27,R28,R29,R34,                                            
+                                                R35,R36,R37,R38,R39                                                     
+                                                                                                                        
+20                      SP3232           1      U7                                                                      
+                                                                                                                        
+21                      STM32F103VBT6    1      U9                                                                      
+                                                                                                                        
+22                      SW_MAG-SPST/SM   1      SW1                                                                     
+                                                                                                                        
+23                      SW_PUSHBUTTON    6      SW2,SW3,SW4,SW5,SW6,SW7                                                 
+                                                                                                                        
+24                      TF-CARD_0        1      J9                                                                      
+                                                                                                                        
+25                      TL082            1      U5                                                                      
+                                                                                                                        
+26                      XC6206P302       2      U2,U3                                                                   
+                                                                                                                        

@@ -1,0 +1,67 @@
+*************************************************************************
+*                                                                       *
+* PADSTACK REPORT                                                       *
+*                                                                       *
+* C:\ORCAD_DATA\PROJECT_LAYOUT\PCB\4LAYER\PROJECT_NIKOLA_GABRIEL-1.MAX  *
+* Tue Jan 07 11:18:32 2025                                              *
+*                                                                       *
+*************************************************************************
+
+Note: Footprint and Component names may be truncated.
+
+PADSTACK               FOOTPRINT                      REFERENCE DESIGNATORS          
+-------------------------------------------------------------------------------------
+T1                     <unused>                       <unused>                                                          
+T2                     <unused>                       <unused>                                                          
+T7                     <unused>                       <unused>                                                          
+T3_1                   CRYSTALD,R200                  R1,R2,R3,R4,R6,R7,R13,R14,                                        
+                                                      R15,R16,R17,R18,R19,R21,R22,                                      
+                                                      R23,R24,R25,R26,R27,R28,R29,                                      
+                                                      R30,R31,R32,R33,R34,R35,R36,                                      
+                                                      R37,R38,R39,X1                                                    
+TM_RAD.llb_pad2        RAD/.150X.100/LS.100/.031,     C0,C1,C2,C3,C4,C5,C7,C12,C13,                                     
+                       RAD/.200X.125/LS.100/.031      C14,C15,C16,C18,C19,C20,C21,                                      
+                                                      C22,C23,C24,C25,C26,C27,C28,                                      
+                                                      C29,C30,C32,C34,C35,C36,C37,                                      
+                                                      C38,C39,C40,C41,C42,C45,C46                                       
+T4                     J\2P,J\4P                      BT1,J1,J3,J5,J7                                                   
+T3                     CONN\DBPLUG\37,J\2P,J\4P       BT1,J1,J3,J5,J7,U8                                                
+55R36                  SWITCH1,SWITCH4                SW1,SW2,SW3,SW4,SW5,SW6,SW7                                       
+SOG.lib_pad5           SOG.050/16/WG.244/L.400        U4                                                                
+SOG.lib_pad6           SOG.050/16/WG.244/L.400        U4                                                                
+SOG.lib_pad7           SOG.050/16/WG.244/L.400        U4                                                                
+TM_CYLND.llb_pad3      CYL/D.250/LS.100/.031          C17,C31,C33,C43,C44                                               
+TM_CYLND.llb_pad4      CYL/D.250/LS.100/.031          C17,C31,C33,C43,C44                                               
+EX61Y61D41P            CONN_67643-2911_MOL            J8                                                                
+EX114Y114D94P          CONN_67643-2911_MOL            J8                                                                
+40X60-R                SOT-89                         U2,U3                                                             
+RX48Y18D0T             S_5_ADI                        U6                                                                
+OX48Y18D0T             S_5_ADI                        U6                                                                
+SX73Y73D53P            IND_MURATA_2200_MUR            L1,L2,L3,L4,L5,L6                                                 
+EX73Y73D53P            IND_MURATA_2200_MUR            L1,L2,L3,L4,L5,L6                                                 
+BCON100T.llb_pad3      BLKCON.100/VH/TM1SQS/W.100/8   J4                                                                
+BCON100T.llb_pad4      BLKCON.100/VH/TM1SQS/W.100/8   J4                                                                
+DIP100T.llb_pad4_1     DIP.100/16/W.300/L.800,        U5,U7                                                             
+                       DIP.100/8/W.300/L.400                                                                            
+DIP100T.llb_pad3_1     DIP.100/16/W.300/L.800,        U5,U7                                                             
+                       DIP.100/8/W.300/L.400                                                                            
+DIP100T.llb_pad5_1     DIP.100/16/W.300/L.800,        U5,U7                                                             
+                       DIP.100/8/W.300/L.400                                                                            
+40X48-R                SOT-23                         D2                                                                
+RX39Y41D0T             CONN3_1909763_TEC              J6                                                                
+RX41Y87D0T             CONN3_1909763_TEC              J6                                                                
+RX37Y45D0T             SOD_34FA_ONS-L                 D3                                                                
+T4_1                   CONN\DBPLUG\37                 U8                                                                
+100R110                CONN\DBPLUG\37                 U8                                                                
+TM_AXIAL.llb_pad2      AX/.300X.100/.028              C6                                                                
+Pad_26                 LQFP100                        U9                                                                
+_2                     LQFP100                        U9                                                                
+RX28Y43D0T             CONN_503398-1892_MOL           J9                                                                
+RX35Y37D0T             CONN_503398-1892_MOL           J9                                                                
+RX41Y31D0T             CONN_503398-1892_MOL           J9                                                                
+RX45Y72D0T             CONN_503398-1892_MOL           J9                                                                
+RX28Y131D0T            CONN_503398-1892_MOL           J9                                                                
+RX34Y110D0T            CONN_503398-1892_MOL           J9                                                                
+TM_DIODE.llb_pad13     DAX/DO35                       D4                                                                
+TM_DIODE.llb_pad14     DAX/DO35                       D4                                                                
+100R110_1              MTHOLE1                        MT1,MT2,MT3,MT4                                                   

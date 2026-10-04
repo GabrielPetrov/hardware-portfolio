@@ -1,0 +1,124 @@
+*************************************************************************
+*                                                                       *
+* Component List (Generic)                                              *
+*                                                                       *
+* C:\ORCAD_DATA\PROJECT_LAYOUT\PCB\4LAYER\PROJECT_NIKOLA_GABRIEL-1.MAX  *
+* Tue Jan 07 11:18:32 2025                                              *
+*                                                                       *
+*************************************************************************
+
+ REF DES    VALUE            PACKAGE          FOOTPRINT                      X LOC      Y LOC      ROTATION
+------------------------------------------------------------------------------------------------------------
+BT1        3.7V             BATTERY_ELEM     J\2P                            200.00 m   2300.00 m 90      
+C0         51p              CAP_NP           RAD/.150X.100/LS.100/.031       4150.00 m  750.00 m  90      
+C1         100p             CAP_NP           RAD/.150X.100/LS.100/.031       4000.00 m  700.00 m  180     
+C2         68p              CAP_NP           RAD/.150X.100/LS.100/.031       3700.00 m  800.00 m  0       
+C3         10n              CAP_NP           RAD/.150X.100/LS.100/.031       3000.00 m  1200.00 m 0       
+C4         820p             CAP_NP           RAD/.150X.100/LS.100/.031       2700.00 m  1200.00 m 180     
+C5         18n              CAP_POL          RAD/.150X.100/LS.100/.031       2800.00 m  1200.00 m 0       
+C6         16n              CAP_NP           AX/.300X.100/.028               3200.00 m  800.00 m  0       
+C7         1.2n             CAP_NP           RAD/.150X.100/LS.100/.031       2400.00 m  1200.00 m 0       
+C12        1u               CAP_NP           RAD/.200X.125/LS.100/.031       2200.00 m  1200.00 m 0       
+C13        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1900.00 m  1200.00 m 0       
+C14        10p              CAP_NP           RAD/.150X.100/LS.100/.031       3250.00 m  2355.12 m 270     
+C15        10p              CAP_NP           RAD/.150X.100/LS.100/.031       3250.00 m  2155.12 m 270     
+C16        1u               CAP_NP           RAD/.200X.125/LS.100/.031       800.00 m   2100.00 m 270     
+C17        220u 6V          CAP_POL          CYL/D.250/LS.100/.031           1700.00 m  1100.00 m 180     
+C18        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1700.00 m  1300.00 m 180     
+C19        1n               CAP_NP           RAD/.150X.100/LS.100/.031       1700.00 m  900.00 m  180     
+C20        1n               CAP_NP           RAD/.150X.100/LS.100/.031       1300.00 m  1100.00 m 0       
+C21        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1000.00 m  1500.00 m 0       
+C22        1n               CAP_NP           RAD/.150X.100/LS.100/.031       1000.00 m  1100.00 m 0       
+C23        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1000.00 m  1700.00 m 0       
+C24        1n               CAP_NP           RAD/.150X.100/LS.100/.031       1000.00 m  1300.00 m 0       
+C25        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1300.00 m  1300.00 m 0       
+C26        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1300.00 m  1500.00 m 0       
+C27        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1300.00 m  1700.00 m 0       
+C28        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1300.00 m  1900.00 m 0       
+C29        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1100.00 m  1900.00 m 180     
+C30        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1300.00 m  2100.00 m 0       
+C31        220u 6V          CAP_POL          CYL/D.250/LS.100/.031           1300.00 m  900.00 m  0       
+C32        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1500.00 m  2400.00 m 270     
+C33        220u 6V          CAP_POL          CYL/D.250/LS.100/.031           1700.00 m  2300.00 m 90      
+C34        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1100.00 m  2100.00 m 180     
+C35        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1600.00 m  1500.00 m 0       
+C36        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1600.00 m  1700.00 m 0       
+C37        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1600.00 m  1900.00 m 0       
+C38        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1600.00 m  2100.00 m 0       
+C39        1u               CAP_NP           RAD/.200X.125/LS.100/.031       2200.00 m  2400.00 m 0       
+C40        1u               CAP_NP           RAD/.200X.125/LS.100/.031       2100.00 m  1700.00 m 0       
+C41        1u               CAP_NP           RAD/.200X.125/LS.100/.031       2500.00 m  2400.00 m 0       
+C42        1u               CAP_NP           RAD/.200X.125/LS.100/.031       2400.00 m  1700.00 m 0       
+C43        220u 6V          CAP_POL          CYL/D.250/LS.100/.031           2450.00 m  3150.00 m 0       
+C44        220u 6V          CAP_POL          CYL/D.250/LS.100/.031           2100.00 m  3100.00 m 0       
+C45        1u               CAP_NP           RAD/.200X.125/LS.100/.031       1300.00 m  3000.00 m 270     
+C46        100nF            CAP_NP           RAD/.150X.100/LS.100/.031       3450.00 m  2255.12 m 90      
+D2         CESD5V0AP        CESD5V0AP        SOT-23                          1100.00 m  900.00 m  270     
+D3         S34              DIODE            SOD_34FA_ONS-L                  800.00 m   2300.00 m 180     
+D4         4148             DIODE_2          DAX/DO35                        3850.00 m  3000.00 m 180     
+J1         USB              CON4             J\4P                            200.00 m   1300.00 m 0       
+J3         IN               CON2             J\2P                            4500.00 m  100.00 m  0       
+J4         JTEC             CON8             BLKCON.100/VH/TM1SQS/W.100/8    3250.00 m  3650.00 m 0       
+J5         IN               CON2             J\2P                            4200.00 m  100.00 m  0       
+J6         INP              CONN_JACK_PWR    CONN3_1909763_TEC               4800.00 m  100.00 m  180     
+J7         USB              CON4             J\4P                            200.00 m   1000.00 m 0       
+J8         MINI-USB         CON6             CONN_67643-2911_MOL             400.00 m   2000.00 m 270     
+J9         TF-CARD          TF-CARD_0        CONN_503398-1892_MOL            4400.00 m  3400.00 m 180     
+L1         FB               INDUCTOR_TOROID  IND_MURATA_2200_MUR             4300.00 m  400.00 m  90      
+L2         FB               INDUCTOR_TOROID  IND_MURATA_2200_MUR             700.00 m   1700.00 m 0       
+L3         FB               INDUCTOR_TOROID  IND_MURATA_2200_MUR             759.00 m   1241.00 m 90      
+L4         100uH            INDUCTOR_TOROID  IND_MURATA_2200_MUR             1559.00 m  541.00 m  180     
+L5         100uH            INDUCTOR_TOROID  IND_MURATA_2200_MUR             1900.00 m  3500.00 m 0       
+L6         100uH            INDUCTOR_TOROID  IND_MURATA_2200_MUR             2400.00 m  3500.00 m 0       
+MT1                                          MTHOLE1                         100.00 m   3600.00 m 0       
+MT2                                          MTHOLE1                         5000.00 m  3600.00 m 0       
+MT3                                          MTHOLE1                         5000.00 m  100.00 m  0       
+MT4                                          MTHOLE1                         100.00 m   100.00 m  0       
+R1         510K             RESISTOR         R200                            4000.00 m  300.00 m  90      
+R2         510K             RESISTOR         R200                            3800.00 m  300.00 m  90      
+R3         6K8              RESISTOR         R200                            3600.00 m  500.00 m  270     
+R4         75K              RESISTOR         R200                            3400.00 m  500.00 m  270     
+R6         3K3              RESISTOR         R200                            3200.00 m  300.00 m  90      
+R7         39K              RESISTOR         R200                            3000.00 m  300.00 m  90      
+R13        270R             RESISTOR         R200                            2800.00 m  500.00 m  270     
+R14        1K1              RESISTOR         R200                            2600.00 m  500.00 m  270     
+R15        18K              RESISTOR         R200                            2500.00 m  800.00 m  180     
+R16        18K              RESISTOR         R200                            2500.00 m  1000.00 m 180     
+R17        1K1              RESISTOR         R200                            1900.00 m  500.00 m  270     
+R18        1K1              RESISTOR         R200                            2100.00 m  800.00 m  180     
+R19        22R              RESISTOR         R200                            2100.00 m  1000.00 m 180     
+R21        1R               RESISTOR         R200                            900.00 m   2500.00 m 180     
+R22        22R              RESISTOR         R200                            900.00 m   2600.00 m 90      
+R23        22R              RESISTOR         R200                            1300.00 m  2600.00 m 90      
+R24        18K              RESISTOR         R200                            1300.00 m  2500.00 m 270     
+R25        11K              RESISTOR         R200                            700.00 m   2800.00 m 270     
+R26        18K              RESISTOR         R200                            700.00 m   3200.00 m 270     
+R27        2K               RESISTOR         R200                            500.00 m   3200.00 m 270     
+R28        11K              RESISTOR         R200                            1700.00 m  2600.00 m 90      
+R29        18K              RESISTOR         R200                            1500.00 m  2600.00 m 90      
+R30        22R              RES              R200                            1100.00 m  2600.00 m 90      
+R31        22R              RES              R200                            1300.00 m  3200.00 m 0       
+R32        22R              RES              R200                            900.00 m   3200.00 m 0       
+R33        22R              RES              R200                            900.00 m   3000.00 m 0       
+R34        18K              RESISTOR         R200                            3100.00 m  3400.00 m 270     
+R35        18K              RESISTOR         R200                            3900.00 m  3400.00 m 270     
+R36        18K              RESISTOR         R200                            2900.00 m  3200.00 m 90      
+R37        18K              RESISTOR         R200                            3500.00 m  3400.00 m 270     
+R38        18K              RESISTOR         R200                            3700.00 m  3400.00 m 270     
+R39        18K              RESISTOR         R200                            3300.00 m  3400.00 m 270     
+SW1        PWR              SW_MAG-SPST/SM   SWITCH4                         200.00 m   2600.00 m 90      
+SW2        KP               SW_PUSHBUTTON    SWITCH1                         200.00 m   500.00 m  180     
+SW3        KM               SW_PUSHBUTTON    SWITCH1                         1700.00 m  200.00 m  180     
+SW4        KR               SW_PUSHBUTTON    SWITCH1                         1384.00 m  200.00 m  180     
+SW5        KL               SW_PUSHBUTTON    SWITCH1                         400.00 m   200.00 m  180     
+SW6        KU               SW_PUSHBUTTON    SWITCH1                         1100.00 m  200.00 m  180     
+SW7        KD               SW_PUSHBUTTON    SWITCH1                         800.00 m   200.00 m  180     
+U2         XC6206P302       XC6206P302       SOT-89                          1141.00 m  641.00 m  90      
+U3         XC6206P332       XC6206P302       SOT-89                          841.00 m   841.00 m  90      
+U4         74HC4051         74HC4051         SOG.050/16/WG.244/L.400         2700.00 m  800.00 m  0       
+U5         TL082            TL082            DIP.100/8/W.300/L.400           2100.00 m  300.00 m  0       
+U6         LTC4054          LTC4054          S_5_ADI                         1100.00 m  2400.10 m 180     
+U7         SP3232           SP3232           DIP.100/16/W.300/L.800          2100.00 m  1900.00 m 0       
+U8         Q90012           Q90012           CONN\DBPLUG\37                  4900.00 m  700.00 m  270     
+U9         STM32F103VBT6    STM32F103VBT6    LQFP100                         3950.00 m  1955.12 m 0       
+X1         8MHz             CRYSTAL          CRYSTALD                        3450.00 m  2155.12 m 270     

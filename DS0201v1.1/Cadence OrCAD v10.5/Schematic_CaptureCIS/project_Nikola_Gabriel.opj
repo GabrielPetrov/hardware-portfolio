@@ -1,0 +1,194 @@
+(ExpressProject "project_Nikola_Gabriel"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\ds0201.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\project_nikola_gabriel.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "TRUE")
+    (DRC_Visible_Power_pins "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "TRUE")
+    (DRC_Report_File "C:\OrCAD_Data\PROJECT_LAYOUT\project_Nikola_Gabriel.drc")
+    (Board_sim_option "VHDL_flow")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "C:\OrCAD_Data\PROJECT_LAYOUT\PROJECT_NIKOLA_GABRIEL.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}")
+    (BOM_Header "Item\tQuantity\tReference\tPart\tPCB Footprint")
+    (BOM_Include_File "C:\ORCAD_DATA\PROJECT1\PROJECT_NIKOLA_GABRIEL.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "TRUE")
+    (CrossRef_Scope "0")
+    (Crossref__Mode "0")
+    (CrossRef_Sorting "1")
+    (CrossRef_Destination_File
+       "C:\OrCAD_Data\PROJECT_LAYOUT\PROJECT_NIKOLA_GABRIEL.XRF")
+    (CrossRef_XY "TRUE")
+    (CrossRef_Unused "TRUE")
+    (XRF_View_Output "TRUE")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "PROJECT_NIKOLA_GABRIEL.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (FALSE)
+    (LAYOUT_Units "0")
+    (FALSE)
+    (FALSE)
+    (FALSE)
+    (FALSE))
+  (Folder "Outputs"
+    (File ".\project_nikola_gabriel.drc"
+      (Type "Report"))
+    (File ".\project_nikola_gabriel.bom"
+      (Type "Report"))
+    (File ".\project_nikola_gabriel.xrf"
+      (Type "Report"))
+    (File "..\project_capture\project_nikola_gabriel.drc"
+      (Type "Report"))
+    (File ".\project_nikola_gabriel.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (MPSSessionName "tues")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 0 608 -9 -36 298 983 256 1221"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -9 -36 60 2140 60 1024")
+        (Scroll "0 0")
+        (Zoom "143")
+        (Occurrence "/"))
+      (Path "C:\ORCAD_DATA\PROJECT_LAYOUT\PROJECT_NIKOLA_GABRIEL.DSN")
+      (Schematic "DS0201v1.1")
+      (Page "DS0201v1.1")))
+  (PartMRUSelector
+    ("CONN JACK PWR"
+      (FullPartName "CONN JACK PWR.Normal")
+      (LibraryName "C:\ORCAD_DATA\PROJECT_LAYOUT\DS0201.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TF-CARD
+      (FullPartName "TF-CARD.Normal")
+      (LibraryName "C:\ORCAD_DATA\PROJECT_LAYOUT\DS0201.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-R
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-L
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTBOTH-R
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CON4AP
+      (FullPartName "CON4AP.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\ALL_LIBS\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (PORTNO-L
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (STM32F103VBT6
+      (FullPartName "STM32F103VBT6.Normal")
+      (LibraryName "C:\ORCAD_DATA\PROJECT\DS0201.OLB")
+      (DeviceIndex "0"))
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\ALL_LIBS\PSPICE.OLB")
+      (DeviceIndex "0"))
+    (XC6206P302
+      (FullPartName "XC6206P302.Normal")
+      (LibraryName "C:\ORCAD_DATA\PROJECT1\DS0201.OLB")
+      (DeviceIndex "0"))
+    ("BATTERY ELEM"
+      (FullPartName "BATTERY ELEM.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\ALL_LIBS\DEVICE.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW MAG-SPST/SM"
+      (FullPartName "SW MAG-SPST/SM.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SP3232
+      (FullPartName "SP3232.Normal")
+      (LibraryName "C:\ORCAD_DATA\PROJECT\DS0201.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Q90012
+      (FullPartName "Q90012.Normal")
+      (LibraryName "C:\ORCAD_DATA\PROJECT\DS0201.OLB")
+      (DeviceIndex "0"))
+    (CON8
+      (FullPartName "CON8.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\EASY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LTC4054
+      (FullPartName "LTC4054.Normal")
+      (LibraryName "C:\ORCAD_DATA\PROJECT\DS0201.OLB")
+      (DeviceIndex "0"))
+    ("CONN TRBLK 13"
+      (FullPartName "CONN TRBLK 13.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\EASY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 13"
+      (FullPartName "CONN RCPT 13.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\EASY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\OrCAD\OrCAD_10.5\tools\capture\library\all_libs"))

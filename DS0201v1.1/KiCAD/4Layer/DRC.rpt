@@ -1,0 +1,219 @@
+** Drc report for DS0201v1.1.kicad_pcb **
+** Created on 2025-01-26T18:56:00+0200 **
+
+** Found 44 DRC violations **
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0,5000 mm; actual 0,0000 mm)
+    Rule: board setup constraints edge; error
+    @(143,9500 mm, 133,4500 mm): Segment on Edge.Cuts
+    @(140,6750 mm, 131,9500 mm): Pad 3 [Net-(J7-Pin_1)] of J8 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0,5000 mm; actual 0,2500 mm)
+    Rule: board setup constraints edge; error
+    @(212,2000 mm, 138,2000 mm): Segment on Edge.Cuts
+    @(143,7250 mm, 131,9500 mm): Pad 2 [Net-(J7-Pin_2)] of J8 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0,5000 mm; actual 0,4000 mm)
+    Rule: board setup constraints edge; error
+    @(143,9500 mm, 133,4500 mm): Segment on Edge.Cuts
+    @(142,2000 mm, 131,7500 mm): Pad 1 [Net-(J7-Pin_2)] of J8 on F.Cu
+[lib_footprint_mismatch]: Footprint 'USB_Mini-B_Lumberg_2486_01_Horizontal' does not match copy in library 'Connector_USB'.
+    Local override; warning
+    @(206,7250 mm, 85,0000 mm): Footprint J2
+[lib_footprint_mismatch]: Footprint 'CONN9_MSD-1_CUD' does not match copy in library 'Sd card'.
+    Local override; warning
+    @(205,1549 mm, 123,2500 mm): Footprint J6
+[lib_footprint_mismatch]: Footprint 'Hirose_FH12-36S-0.5SH_1x36-1MP_P0.50mm_Horizontal' does not match copy in library 'Connector_FFC-FPC'.
+    Local override; warning
+    @(185,4000 mm, 133,6500 mm): Footprint J5
+[lib_footprint_mismatch]: Footprint 'MMCX_Molex_73415-0961_Horizontal_1.6mm-PCB' does not match copy in library 'Connector_Coaxial'.
+    Local override; warning
+    @(142,2000 mm, 134,2000 mm): Footprint J8
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149,3600 mm, 74,5500 mm): Reference 'C15'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(177,6000 mm, 79,7000 mm): Reference 'C28'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(158,0000 mm, 129,9000 mm): Reference 'J9'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166,0000 mm, 130,6000 mm): Reference 'R10'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(158,2200 mm, 65,0400 mm): Reference 'C41'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(168,2000 mm, 130,6000 mm): Reference 'R9'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(158,3000 mm, 71,4000 mm): Reference 'C32'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(149,3500 mm, 71,3500 mm): Reference 'C22'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(172,6000 mm, 130,6000 mm): Reference 'R4'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(163,3000 mm, 130,6000 mm): Reference 'R23'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(170,4000 mm, 130,6000 mm): Reference 'R6'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(163,2000 mm, 91,4000 mm): Reference 'R20'
+    @(165,4000 mm, 91,4000 mm): Reference 'R17'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(165,4000 mm, 91,4000 mm): Reference 'R17'
+    @(167,6000 mm, 91,4000 mm): Reference 'R21'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(163,2000 mm, 91,4000 mm): Reference 'R20'
+    @(161,0000 mm, 91,4000 mm): Reference 'R16'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(172,0000 mm, 91,4000 mm): Reference 'R14'
+    @(169,8000 mm, 91,4000 mm): Reference 'R15'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(169,8000 mm, 91,4000 mm): Reference 'R15'
+    @(167,6000 mm, 91,4000 mm): Reference 'R21'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(161,0000 mm, 91,4000 mm): Reference 'R16'
+    @(158,8000 mm, 91,4000 mm): Reference 'R24'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(154,4000 mm, 91,4000 mm): Reference 'R28'
+    @(156,6000 mm, 91,4000 mm): Reference 'R25'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(156,6000 mm, 91,4000 mm): Reference 'R25'
+    @(158,8000 mm, 91,4000 mm): Reference 'R24'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(158,2000 mm, 68,2000 mm): Reference 'C35'
+    @(155,4300 mm, 67,9800 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(158,2200 mm, 65,0400 mm): Reference 'C41'
+    @(159,4700 mm, 65,4050 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(158,2000 mm, 68,2000 mm): Reference 'C35'
+    @(159,4700 mm, 67,9800 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(158,3000 mm, 71,4000 mm): Reference 'C32'
+    @(155,4300 mm, 71,1800 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(158,3000 mm, 71,4000 mm): Reference 'C32'
+    @(159,4700 mm, 71,1800 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(158,2200 mm, 65,0400 mm): Reference 'C41'
+    @(159,4700 mm, 64,7800 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(176,4000 mm, 91,4000 mm): Reference 'R19'
+    @(174,2000 mm, 91,4000 mm): Reference 'R18'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(172,0000 mm, 91,4000 mm): Reference 'R14'
+    @(174,2000 mm, 91,4000 mm): Reference 'R18'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(158,8000 mm, 122,0000 mm): Circle on F.Silkscreen
+    @(161,8000 mm, 125,5000 mm): Reference 'C3'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(162,0200 mm, 126,0800 mm): Segment on F.Silkscreen
+    @(161,8000 mm, 125,5000 mm): Reference 'C3'
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(149,3600 mm, 74,5500 mm): Reference 'C15'
+    @(150,6200 mm, 74,3300 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(149,3500 mm, 71,3500 mm): Reference 'C22'
+    @(150,6200 mm, 71,1300 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(149,3600 mm, 74,5500 mm): Reference 'C15'
+    @(150,6200 mm, 74,9550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(149,3500 mm, 71,3500 mm): Reference 'C22'
+    @(150,6200 mm, 71,7550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(149,8200 mm, 68,1500 mm): Reference 'C8'
+    @(150,6200 mm, 68,5550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(149,8200 mm, 68,1500 mm): Reference 'C8'
+    @(150,6200 mm, 67,9300 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(149,8200 mm, 64,9500 mm): Reference 'C9'
+    @(150,6200 mm, 65,3550 mm): Segment on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(149,8200 mm, 64,9500 mm): Reference 'C9'
+    @(150,6200 mm, 64,7300 mm): Segment on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 16 Footprint errors **
+[footprint_symbol_mismatch]: BT1 footprint (Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal) doesn't match that given by symbol (Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical).
+    Local override; warning
+    @(140,6500 mm, 83,8000 mm): Footprint BT1
+[footprint_symbol_mismatch]: J1 footprint (Connector_JST:JST_EH_S8B-EH_1x08_P2.50mm_Horizontal) doesn't match that given by symbol (Connector_Molex:Molex_Micro-Fit_3.0_43650-0815_1x08_P3.00mm_Vertical).
+    Local override; warning
+    @(205,2000 mm, 94,0500 mm): Footprint J1
+[footprint_symbol_mismatch]: J2 footprint (Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal) doesn't match that given by symbol (Connector_USB:USB_Micro-B_Wuerth_629105150521_CircularHoles).
+    Local override; warning
+    @(206,7250 mm, 85,0000 mm): Footprint J2
+[footprint_symbol_mismatch]: J3 footprint (Connector_JST:JST_EH_S4B-EH_1x04_P2.50mm_Horizontal) doesn't match that given by symbol (Connector_Harwin:Harwin_LTek-Male_04_P2.00mm_Vertical).
+    Local override; warning
+    @(192,6500 mm, 67,3325 mm): Footprint J3
+[footprint_symbol_mismatch]: J4 footprint (Connector_JST:JST_EH_S4B-EH_1x04_P2.50mm_Horizontal) doesn't match that given by symbol (Connector_Harwin:Harwin_LTek-Male_04_P2.00mm_Vertical).
+    Local override; warning
+    @(205,2675 mm, 68,5000 mm): Footprint J4
+[footprint_symbol_mismatch]: J7 footprint (Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal) doesn't match that given by symbol (Connector_Wuerth:Wuerth_WR-WTB_64800211622_1x02_P1.50mm_Vertical).
+    Local override; warning
+    @(150,6500 mm, 131,2675 mm): Footprint J7
+[footprint_symbol_mismatch]: J9 footprint (Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal) doesn't match that given by symbol (Connector_Wuerth:Wuerth_WR-WTB_64800211622_1x02_P1.50mm_Vertical).
+    Local override; warning
+    @(159,2500 mm, 131,2675 mm): Footprint J9
+[footprint_symbol_mismatch]: L1 footprint (Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700) doesn't match that given by symbol (Capacitor_THT:CP_Radial_D8.0mm_P3.50mm).
+    Local override; warning
+    @(158,8000 mm, 123,5000 mm): Footprint L1
+[footprint_symbol_mismatch]: L2 footprint (Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700) doesn't match that given by symbol (Capacitor_THT:CP_Radial_D8.0mm_P3.50mm).
+    Local override; warning
+    @(200,5000 mm, 76,6000 mm): Footprint L2
+[footprint_symbol_mismatch]: L3 footprint (Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700) doesn't match that given by symbol (Capacitor_THT:CP_Radial_D8.0mm_P3.50mm).
+    Local override; warning
+    @(192,7000 mm, 76,6000 mm): Footprint L3
+[footprint_symbol_mismatch]: L4 footprint (Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700) doesn't match that given by symbol (Capacitor_THT:CP_Radial_D8.0mm_P3.50mm).
+    Local override; warning
+    @(170,4000 mm, 67,9000 mm): Footprint L4
+[footprint_symbol_mismatch]: L5 footprint (Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700) doesn't match that given by symbol (Capacitor_THT:CP_Radial_D8.0mm_P3.50mm).
+    Local override; warning
+    @(170,4000 mm, 75,7000 mm): Footprint L5
+[footprint_symbol_mismatch]: L6 footprint (Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700) doesn't match that given by symbol (Capacitor_THT:CP_Radial_D8.0mm_P3.50mm).
+    Local override; warning
+    @(137,5000 mm, 125,8000 mm): Footprint L6
+[footprint_symbol_mismatch]: SW1 footprint (Button_Switch_SMD:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W8.61mm_P2.54mm) doesn't match that given by symbol (Button_Switch_THT:SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm).
+    Local override; warning
+    @(137,2000 mm, 75,4000 mm): Footprint SW1
+[footprint_symbol_mismatch]: U2 footprint (Package_DIP:DIP-16_W7.62mm) doesn't match that given by symbol (Package_DIP:CERDIP-16_W7.62mm_SideBrazed).
+    Local override; warning
+    @(178,6000 mm, 63,1250 mm): Footprint U2
+[footprint_symbol_mismatch]: U5 footprint (Package_SO:SOIC-16W_5.3x10.2mm_P1.27mm) doesn't match that given by symbol (Package_SO:SOP-16_4.55x10.3mm_P1.27mm).
+    Local override; warning
+    @(168,0000 mm, 125,6000 mm): Footprint U5
+
+** End of Report **

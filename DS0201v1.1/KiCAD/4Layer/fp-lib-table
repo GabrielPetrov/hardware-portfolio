@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Sd card")(type "KiCad")(uri "C:/Users/gabri/Downloads/footprints.pretty")(options "")(descr ""))
+)

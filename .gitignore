@@ -1,0 +1,12 @@
+# KiCad temporary/backup files
+*-backups/
+*.lck
+*.bak
+*.bck
+*~
+_autosave-*
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
