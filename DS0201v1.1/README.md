@@ -12,7 +12,7 @@ The board is based around an STM32F103 and includes several peripheral and analo
 
 ![Capture CIS schematic](./images/OrCADSchematic.png)
 
-[View full schematic PDF](./KiCAD/Cadence%20OrCAD%20v10.5/Schematic_CaptureCIS/DS0201_schematic.pdf)
+[View full schematic PDF](./Cadence%20OrCAD%20v10.5/Schematic_CaptureCIS/DS0201_schematic.pdf)
 
 ### 2-layer layout
 
